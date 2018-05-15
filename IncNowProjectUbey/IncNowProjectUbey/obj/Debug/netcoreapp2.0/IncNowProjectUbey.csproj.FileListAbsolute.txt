@@ -1,0 +1,11 @@
+/Users/iubey/Projects/IncNowProjectUbey/IncNowProjectUbey/bin/Debug/netcoreapp2.0/IncNowProjectUbey.deps.json
+/Users/iubey/Projects/IncNowProjectUbey/IncNowProjectUbey/bin/Debug/netcoreapp2.0/IncNowProjectUbey.runtimeconfig.json
+/Users/iubey/Projects/IncNowProjectUbey/IncNowProjectUbey/bin/Debug/netcoreapp2.0/IncNowProjectUbey.runtimeconfig.dev.json
+/Users/iubey/Projects/IncNowProjectUbey/IncNowProjectUbey/bin/Debug/netcoreapp2.0/IncNowProjectUbey.dll
+/Users/iubey/Projects/IncNowProjectUbey/IncNowProjectUbey/bin/Debug/netcoreapp2.0/IncNowProjectUbey.pdb
+/Users/iubey/Projects/IncNowProjectUbey/IncNowProjectUbey/obj/Debug/netcoreapp2.0/IncNowProjectUbey.csprojResolveAssemblyReference.cache
+/Users/iubey/Projects/IncNowProjectUbey/IncNowProjectUbey/obj/Debug/netcoreapp2.0/IncNowProjectUbey.csproj.CoreCompileInputs.cache
+/Users/iubey/Projects/IncNowProjectUbey/IncNowProjectUbey/obj/Debug/netcoreapp2.0/IncNowProjectUbey.AssemblyInfoInputs.cache
+/Users/iubey/Projects/IncNowProjectUbey/IncNowProjectUbey/obj/Debug/netcoreapp2.0/IncNowProjectUbey.AssemblyInfo.cs
+/Users/iubey/Projects/IncNowProjectUbey/IncNowProjectUbey/obj/Debug/netcoreapp2.0/IncNowProjectUbey.dll
+/Users/iubey/Projects/IncNowProjectUbey/IncNowProjectUbey/obj/Debug/netcoreapp2.0/IncNowProjectUbey.pdb
